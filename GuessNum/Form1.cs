@@ -19,7 +19,7 @@ namespace GuessNum
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Git Change", "Sucess", MessageBoxButtons.OK);
         }
     }
 }
